@@ -55,22 +55,8 @@ project-root/
 
 ---
 
-## Code Summary
-
-### Frontend (`index.html`)
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome Page</title>
-</head>
-<body>
-    <h1>Welcome to the project!</h1>
-</body>
-</html>
-
 Git Commands Used
+
 git clone <repo-url>            # Clone repository
 git checkout -b <branch-name>   # Create and switch to new branch
 git branch                      # List all branches
@@ -83,6 +69,7 @@ git merge                       # Merge branches
 
 
 What We Learned
+
 Git branching and merging strategies.
 
 Code organization and proper project structure.
