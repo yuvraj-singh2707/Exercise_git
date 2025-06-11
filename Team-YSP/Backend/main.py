@@ -1,3 +1,5 @@
 def welcome_message(name):
     print(f"Welcome {name}")
-welcome_message(Yuvraj)
+
+name='Yuvraj'
+welcome_message(name)
