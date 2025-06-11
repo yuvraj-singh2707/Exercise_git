@@ -16,11 +16,16 @@ This project demonstrates collaborative Git workflow using branching strategies 
 ## Project Structure
 
 project-root/
+
 └── Team-YSP/
+
 ├── frontend/
+
 │ └── index.html
+
 └── backend/
-└── main.py
+
+│ └── main.py
 
 
 
@@ -55,20 +60,28 @@ project-root/
 
 ---
 
-Git Commands Used
+## Git Commands Used
 
 git clone <repo-url>            # Clone repository
+
 git checkout -b <branch-name>   # Create and switch to new branch
+
 git branch                      # List all branches
+
 git status                      # Show current status of files
+
 git add .                        # Stage all changes
+
 git commit -m "message"         # Commit staged changes
+
 git push origin <branch>        # Push changes to remote
+
 git pull                        # Pull latest changes
+
 git merge                       # Merge branches
 
 
-What We Learned
+## What We Learned
 
 Git branching and merging strategies.
 
@@ -80,4 +93,4 @@ Conflict resolution and team coordination.
 
 Step-by-step Git workflow with best practices.
 
-Thank You!
+## Thank You!
